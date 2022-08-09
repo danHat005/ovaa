@@ -20,7 +20,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class LoginActivity extends AppCompatActivity {
-    public static final String INTENT_REDIRECT_KEY = "redirect_intent";
+    public static final String INTENT_REDIRECT_KEY = "";//set as environment variable
 
     private LoginUtils loginUtils;
 
